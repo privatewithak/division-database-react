@@ -1,4 +1,5 @@
 # The Division Database
+[Click here for viewer](https://r-surrected.github.io/division-database/viewer.html)
 This will be quite the yap so here's a shortened version:
 
 I wanted to be able to track changes in divisions, so I made a website that does that.
