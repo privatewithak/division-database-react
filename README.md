@@ -1,4 +1,4 @@
-#[**Click here for viewer**](https://r-surrected.github.io/division-database/viewer.html)
+# [**Click here for viewer**](https://r-surrected.github.io/division-database/viewer.html)
 
 # The Division Database
 
