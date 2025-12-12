@@ -1,0 +1,93 @@
+[
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 2407924059,
+        "username": "RKXIXKR",
+        "division": "RAZOR",
+        "old_rank_name": "D1 Protection Unit",
+        "old_rank_value": 6,
+        "new_rank_name": "Elite Protection Unit",
+        "new_rank_value": 7
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 96483910,
+        "username": "gillibob",
+        "division": "SPEAR",
+        "old_rank_name": "D1 Protection Unit",
+        "old_rank_value": 6,
+        "new_rank_name": "Elite Protection Unit",
+        "new_rank_value": 7
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 543527993,
+        "username": "littleIoan",
+        "division": "JURY",
+        "old_rank_name": "D1 Protection Unit",
+        "old_rank_value": 6,
+        "new_rank_name": "Elite Protection Unit",
+        "new_rank_value": 7
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 3019685556,
+        "username": "samucarros40100",
+        "division": "JURY",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 792676608,
+        "username": "alibzkrt",
+        "division": "JURY",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "division_transfer",
+        "user_id": 1040662656,
+        "username": "AmyYumii",
+        "old_division": "JURY",
+        "new_division": "SPEAR",
+        "rank_name": "Elite Protection Unit",
+        "rank_value": 7
+    },
+    {
+        "date": "2025-12-10",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 455710250,
+        "username": "haydaraydokan",
+        "division": "RAZOR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-12",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 3590423016,
+        "username": "basedasparagus",
+        "division": "SPEAR",
+        "old_rank_name": "Division Leader",
+        "old_rank_value": 10
+    }
+]
