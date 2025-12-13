@@ -20,4 +20,6 @@ The database uses a python script (not in the repo) that runs scheduled (12:00 P
 
 This may seem like I go in and manually update the json but it's purely done by a python script. I wouldn't wish manual json updating on anyone. 
 
-Right now I'm working on automatically updating it. Currently the username change system is breaking, so any changes just break.
+## Current state / updates
+
+Right now I'm working on automatically updating it (actually getting the headless computer to work and stuff). Currently the username change system is breaking, so any changes just break and they are named "unknown." 
