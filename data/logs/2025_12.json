@@ -89,5 +89,895 @@
         "division": "SPEAR",
         "old_rank_name": "Division Leader",
         "old_rank_value": 10
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 739761862,
+        "username": "111x5",
+        "division": "ACADEMY",
+        "rank_name": "Senior Instructor",
+        "rank_value": 8
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2047685403,
+        "username": "3_3FivE",
+        "division": "ACADEMY",
+        "rank_name": "Deputy Instructor",
+        "rank_value": 9
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1742458691,
+        "username": "X_LOOA",
+        "division": "ACADEMY",
+        "rank_name": "Head Instructor",
+        "rank_value": 10
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 39922681,
+        "username": "rzuffy",
+        "division": "ACADEMY",
+        "rank_name": "Senior Instructor",
+        "rank_value": 8
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 410110398,
+        "username": "ThunderMydrek",
+        "division": "ACADEMY",
+        "rank_name": "Deputy Instructor",
+        "rank_value": 9
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 378484133,
+        "username": "ahhamadhx",
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1919223526,
+        "username": "Sir_Alex2246",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 490641088,
+        "username": "ninjarules994",
+        "division": "PHANTOM",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 7225765909,
+        "username": "8O8_DEAD2",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3590588349,
+        "username": "An1ziko",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 101807084,
+        "username": "Reseyulf",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 132338272,
+        "username": "DeltaVasilia",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 753682407,
+        "username": "xmasrex14",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 240841006,
+        "username": "1_sqd",
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 4402557269,
+        "username": "SeaYux",
+        "division": "ECHO",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3859761014,
+        "username": "BrickLord787",
+        "division": "PHANTOM",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1536968033,
+        "username": "Aimbo45",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1689481069,
+        "username": "Lenin17757",
+        "division": "ECHO",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2431405557,
+        "username": "min6eito",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3300800349,
+        "username": "Szmig0L",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 87069773,
+        "username": "STAFIST",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 60625583,
+        "username": "LtZox",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3415746256,
+        "username": "Frontkampfer",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1417927891,
+        "username": "pugbeams",
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2766451208,
+        "username": "IDontGottaTellUTwice",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2046993822,
+        "username": "r_isimm",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 542223891,
+        "username": "GoldMax7777",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3162975308,
+        "username": "MainAccountIsG0ne",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1993588074,
+        "username": "Operative_Unit",
+        "division": "ECHO",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1108730332,
+        "username": "iamDeathskull",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1167240489,
+        "username": "Robloxian472713356",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 362136537,
+        "username": "r_surgent",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 413178827,
+        "username": "BolekHero",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 590563388,
+        "username": "Raideriuz",
+        "division": "KING",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 107874545,
+        "username": "W_alIcroft",
+        "division": "PHANTOM",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 450816973,
+        "username": "kzytq",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2236336611,
+        "username": "trxck3er",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 57896758,
+        "username": "IEmperorOfMankind",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 568989893,
+        "username": "CH0KL4TE",
+        "division": "KING",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 86012139,
+        "username": "iEckstra",
+        "division": "RANGER",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 234067487,
+        "username": "Iaurib",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2512023401,
+        "username": "kuro5840",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 96571370,
+        "username": "Excalitar",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 491042709,
+        "username": "jiearXD",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 821807256,
+        "username": "almog_levi",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 114914679,
+        "username": "Aaron0708",
+        "division": "PHANTOM",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 65887411,
+        "username": "TalksInHuman",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 585618715,
+        "username": "KacpiTMXD",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1945409980,
+        "username": "kasvria",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 844013250,
+        "username": "Arxxtic",
+        "division": "DAGGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 29280649,
+        "username": "Sharkman404",
+        "division": "ECHO",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2318526755,
+        "username": "qurtymm",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 153879806,
+        "username": "3kChakaz",
+        "division": "PHANTOM",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 346838092,
+        "username": "Agent055008",
+        "division": "RANGER",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1921534380,
+        "username": "DxtaFox",
+        "division": "KING",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1273257926,
+        "username": "Autonomous_Unit",
+        "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1257092449,
+        "username": "MasterDodgy",
+        "division": "KING",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 36718909,
+        "username": "Opsideo",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 253629301,
+        "username": "AJPlayer28",
+        "division": "RANGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1117564439,
+        "username": "Khalandax",
+        "division": "PHANTOM",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 105716990,
+        "username": "GardeImperial",
+        "division": "KING",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 417795263,
+        "username": "voItazur",
+        "division": "KING",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 662240777,
+        "username": "777Qubec777",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 3152653035,
+        "username": "AngeImperium",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 504934349,
+        "username": "Chronapse",
+        "division": "KING",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 1409374,
+        "username": "Edvin96",
+        "division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 7904301331,
+        "username": "lmperatorPrime",
+        "division": "PHANTOM",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 70778781,
+        "username": "5ac",
+        "division": "KING",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 54231194,
+        "username": "GeneralHell",
+        "division": "PHANTOM",
+        "rank_name": "Tier II",
+        "rank_value": 2
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 353382054,
+        "username": "WraithVortex1",
+        "division": "ECHO",
+        "rank_name": "Tier I",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "enlistment",
+        "user_id": 2655480287,
+        "username": "xtlwar1",
+        "division": "KING",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 108224464,
+        "username": "mudkip0123",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 105326410,
+        "username": "PilotClassic",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1196415137,
+        "username": "90gq31",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 215230160,
+        "username": "yummychains",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 36744697,
+        "username": "qsawz",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1116603715,
+        "username": "NiNjayuo99",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 792646049,
+        "username": "RedSin_s",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1530840652,
+        "username": "InfragiIity",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 281014177,
+        "username": "DeemedSuccess",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 457826824,
+        "username": "frezepolice",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 186027613,
+        "username": "Mephidanttes",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 90348463,
+        "username": "Vulrezz",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 207709603,
+        "username": "HertzLV",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 15685343,
+        "username": "WantedMellon",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 34629637,
+        "username": "Eraclidex",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 76949844,
+        "username": "Solarvyr",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 34783532,
+        "username": "Gr_udge",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1346443058,
+        "username": "Asynthetics",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 1113369732,
+        "username": "GoIdbust",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
+    },
+    {
+        "date": "2025-12-13",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 16231952,
+        "username": "DexClassic",
+        "old_division": "OTA",
+        "new_division": "COMMAND"
     }
 ]
