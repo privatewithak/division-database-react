@@ -139,10 +139,16 @@ function applyEventToState(state, event) {
             }
         }
     } else if (type === "division_transfer") {
-        if (state[uid]) {
-            state[uid].division = event.new_division;
+        if (!state[uid]) return;
+
+        // Prevent CCA transfers from corrupting Academy members
+        if (event.branch === "CCA" && state[uid].division === "ACADEMY") {
+            return;
         }
-    } else if (type === "username_change") {
+
+        state[uid].division = event.new_division;
+    }
+    else if (type === "username_change") {
         if (state[uid]) {
             state[uid].username = event.new_username;
         }
@@ -411,7 +417,9 @@ function renderDivision(divisionName) {
     }
 
     for (const [rank, userList] of Object.entries(rankMap)) {
-        userList.sort((a, b) => a.username.localeCompare(b.username));
+        userList.sort((a, b) =>
+            (a.username || "").localeCompare(b.username || "")
+        );
     }
 
     let orderedRanks;
@@ -638,15 +646,15 @@ function renderTimeline() {
     let events = getCurrentEvents();
 
     if (search) {
-    const s = search.toLowerCase();
-    events = events.filter(ev => {
-        return (
-            (ev.username && ev.username.toLowerCase().includes(s)) ||
-            (ev.old_username && ev.old_username.toLowerCase().includes(s)) ||
-            (ev.new_username && ev.new_username.toLowerCase().includes(s))
-        );
-    });
-}
+        const s = search.toLowerCase();
+        events = events.filter(ev => {
+            return (
+                (ev.username && ev.username.toLowerCase().includes(s)) ||
+                (ev.old_username && ev.old_username.toLowerCase().includes(s)) ||
+                (ev.new_username && ev.new_username.toLowerCase().includes(s))
+            );
+        });
+    }
 
 
 
