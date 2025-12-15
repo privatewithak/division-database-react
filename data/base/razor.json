@@ -24,8 +24,8 @@
         "username": "CozyCinder",
         "username_checked": "2025-12-14",
         "division": "RAZOR",
-        "rank_name": "D3 Protection Unit",
-        "rank_value": 4
+        "rank_name": "D2 Protection Unit",
+        "rank_value": 5
     },
     "766553571": {
         "username": "RickyBaldi",
@@ -108,8 +108,8 @@
         "username": "crnwy",
         "username_checked": "2025-12-14",
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     },
     "3519782864": {
         "username": "FeySkull",
@@ -211,21 +211,21 @@
     },
     "3546613913": {
         "username": "artem333etr",
-        "username_checked": null,
+        "username_checked": "2025-12-15",
         "division": "RAZOR",
-        "rank_name": "D4 Protection Unit",
-        "rank_value": 3
+        "rank_name": "D3 Protection Unit",
+        "rank_value": 4
     },
     "2332901263": {
         "username": "denVulcan",
-        "username_checked": null,
+        "username_checked": "2025-12-15",
         "division": "RAZOR",
         "rank_name": "D3 Protection Unit",
         "rank_value": 4
     },
     "292805411": {
         "username": "Avvlas",
-        "username_checked": null,
+        "username_checked": "2025-12-15",
         "division": "RAZOR",
         "rank_name": "D3 Protection Unit",
         "rank_value": 4
@@ -241,8 +241,8 @@
         "username": "Z9Kaxence",
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D4 Protection Unit",
-        "rank_value": 3
+        "rank_name": "D3 Protection Unit",
+        "rank_value": 4
     },
     "1516073428": {
         "username": "DerwahreImperator2",
@@ -262,8 +262,8 @@
         "username": "Carabinieri_ita112x",
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     },
     "1478014134": {
         "username": "Gregboi321",
@@ -276,21 +276,21 @@
         "username": "Therealparadox11",
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     },
     "3244040950": {
         "username": "kinglegacexXx",
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     },
     "1781336876": {
         "username": "ROBlNGLES",
         "username_checked": null,
         "division": "RAZOR",
-        "rank_name": "D5 Protection Unit",
-        "rank_value": 2
+        "rank_name": "D4 Protection Unit",
+        "rank_value": 3
     }
 }

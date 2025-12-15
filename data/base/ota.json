@@ -175,15 +175,15 @@
         "rank_value": 3
     },
     "105716990": {
-        "username": null,
-        "username_checked": null,
+        "username": "GardeImperial",
+        "username_checked": "2025-12-15",
         "division": "KING",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "417795263": {
-        "username": null,
-        "username_checked": null,
+        "username": "voItazur",
+        "username_checked": "2025-12-15",
         "division": "KING",
         "rank_name": "Tier II",
         "rank_value": 2
@@ -196,22 +196,22 @@
         "rank_value": 8
     },
     "240841006": {
-        "username": null,
-        "username_checked": null,
+        "username": "1_sqd",
+        "username_checked": "2025-12-15",
         "division": "PHANTOM",
         "rank_name": "Tier III",
         "rank_value": 3
     },
     "2431405557": {
-        "username": null,
-        "username_checked": null,
+        "username": "min6eito",
+        "username_checked": "2025-12-15",
         "division": "ECHO",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "504934349": {
-        "username": null,
-        "username_checked": null,
+        "username": "Chronapse",
+        "username_checked": "2025-12-15",
         "division": "KING",
         "rank_name": "Tier I",
         "rank_value": 1
@@ -514,8 +514,8 @@
         "username": null,
         "username_checked": null,
         "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "rank_name": "Tier I",
+        "rank_value": 1
     },
     "29280649": {
         "username": null,
@@ -577,8 +577,8 @@
         "username": null,
         "username_checked": null,
         "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "1409374": {
         "username": null,
@@ -591,8 +591,8 @@
         "username": null,
         "username_checked": null,
         "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "101807084": {
         "username": null,
@@ -605,8 +605,8 @@
         "username": null,
         "username_checked": null,
         "division": "ECHO",
-        "rank_name": "Tier III",
-        "rank_value": 3
+        "rank_name": "Tier II",
+        "rank_value": 2
     },
     "234067487": {
         "username": null,
