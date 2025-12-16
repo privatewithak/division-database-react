@@ -555,5 +555,35 @@
         "old_rank_value": 7,
         "new_rank_name": "D2 Protection Unit",
         "new_rank_value": 5
+    },
+    {
+        "date": "2025-12-16",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 507744198,
+        "username": null,
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-16",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2607331438,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-16",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2617768206,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
     }
 ]
