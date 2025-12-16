@@ -303,5 +303,257 @@
         "old_rank_value": 3,
         "new_rank_name": "Tier II",
         "new_rank_value": 2
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 76497263,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 384253812,
+        "username": "isaakbr456",
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 7376651915,
+        "username": "AntKing396",
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 7460001509,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2923417353,
+        "username": null,
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 499949322,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2729536602,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 893557274,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 3543004083,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1395729371,
+        "username": null,
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 44381669,
+        "username": null,
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 3774769917,
+        "username": "ItzKizonia",
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1330825185,
+        "username": "xWixster",
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 211285437,
+        "username": null,
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1037374250,
+        "username": "HyPnOsIs51",
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1164355984,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 8305274822,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 90227603,
+        "username": null,
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 2240817225,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1082189080,
+        "username": "IMaydanoz",
+        "division": "JURY",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 1745061105,
+        "username": null,
+        "division": "RAZOR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 4213418732,
+        "username": null,
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1399365168,
+        "username": "manviIIax",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 1594243629,
+        "username": "Mikethebro121",
+        "division": "SPEAR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-15",
+        "branch": "CCA",
+        "type": "demotion",
+        "user_id": 2515289080,
+        "username": "Wig_Watch",
+        "division": "SPEAR",
+        "old_rank_name": "Elite Protection Unit",
+        "old_rank_value": 7,
+        "new_rank_name": "D2 Protection Unit",
+        "new_rank_value": 5
     }
 ]
