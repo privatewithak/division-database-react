@@ -585,5 +585,27 @@
         "division": "RAZOR",
         "rank_name": "Recruit",
         "rank_value": 1
+    },
+    {
+        "date": "2025-12-17",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 438198734,
+        "username": "nobleqsix",
+        "division": "SPEAR",
+        "old_rank_name": "D5 Protection Unit",
+        "old_rank_value": 2,
+        "new_rank_name": "D4 Protection Unit",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-17",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1417927891,
+        "username": "pugbeams",
+        "division": "PHANTOM",
+        "old_rank_name": "Tier III",
+        "old_rank_value": 3
     }
 ]

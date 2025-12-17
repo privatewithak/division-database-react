@@ -153,13 +153,6 @@
         "rank_name": "Overwatch Leader",
         "rank_value": 4
     },
-    "1417927891": {
-        "username": "pugbeams",
-        "username_checked": "2025-12-14",
-        "division": "PHANTOM",
-        "rank_name": "Tier III",
-        "rank_value": 3
-    },
     "105326410": {
         "username": "PilotClassic",
         "username_checked": "2025-12-13",
@@ -308,8 +301,8 @@
         "rank_value": 1
     },
     "1921534380": {
-        "username": null,
-        "username_checked": null,
+        "username": "DxtaFox",
+        "username_checked": "2025-12-17",
         "division": "KING",
         "rank_name": "Tier III",
         "rank_value": 3
@@ -329,29 +322,29 @@
         "rank_value": 5
     },
     "153879806": {
-        "username": null,
-        "username_checked": null,
+        "username": "3kChakaz",
+        "username_checked": "2025-12-17",
         "division": "PHANTOM",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "2046993822": {
-        "username": null,
-        "username_checked": null,
+        "username": "r_isimm",
+        "username_checked": "2025-12-17",
         "division": "DAGGER",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "844013250": {
-        "username": null,
-        "username_checked": null,
+        "username": "Arxxtic",
+        "username_checked": "2025-12-17",
         "division": "DAGGER",
         "rank_name": "Tier I",
         "rank_value": 1
     },
     "70778781": {
-        "username": null,
-        "username_checked": null,
+        "username": "5ac",
+        "username_checked": "2025-12-17",
         "division": "KING",
         "rank_name": "Tier II",
         "rank_value": 2
