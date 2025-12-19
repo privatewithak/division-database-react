@@ -617,5 +617,58 @@
         "division": "RAZOR",
         "old_rank_name": "D5 Protection Unit",
         "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-19",
+        "branch": "CCA",
+        "type": "enlistment",
+        "user_id": 10084636648,
+        "username": "CallMeKizonia",
+        "division": "SPEAR",
+        "rank_name": "Recruit",
+        "rank_value": 1
+    },
+    {
+        "date": "2025-12-19",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 3244040950,
+        "username": "kinglegacexXx",
+        "division": "RAZOR",
+        "old_rank_name": "D4 Protection Unit",
+        "old_rank_value": 3
+    },
+    {
+        "date": "2025-12-19",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 2013274115,
+        "username": "Therated0",
+        "division": "RAZOR",
+        "old_rank_name": "D1 Protection Unit",
+        "old_rank_value": 6
+    },
+    {
+        "date": "2025-12-19",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 2236336611,
+        "username": null,
+        "division": "ECHO",
+        "old_rank_name": "Tier I",
+        "old_rank_value": 1,
+        "new_rank_name": "Tier III",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-19",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 2236336611,
+        "username": null,
+        "old_division": "RANGER",
+        "new_division": "ECHO",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]
