@@ -1,21 +1,21 @@
 {
     "76949844": {
         "username": "Solarvyr",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-20",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
     },
     "2509926394": {
         "username": "UniversalBenefactor",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-20",
         "division": "OTA",
         "rank_name": "Earth Administrator",
         "rank_value": 9
     },
     "281014177": {
         "username": "DeemedSuccess",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-20",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
@@ -29,7 +29,7 @@
     },
     "186027613": {
         "username": "Mephidanttes",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-20",
         "division": "OTA",
         "rank_name": "Overwatch Commander",
         "rank_value": 7
@@ -43,7 +43,7 @@
     },
     "15685343": {
         "username": "WantedMellon",
-        "username_checked": "2025-12-13",
+        "username_checked": "2025-12-20",
         "division": "OTA",
         "rank_name": "Overwatch Captain",
         "rank_value": 6
@@ -398,13 +398,6 @@
         "rank_name": "Tier I",
         "rank_value": 1
     },
-    "1689481069": {
-        "username": "Lenin17757",
-        "username_checked": "2025-12-19",
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
-    },
     "1117564439": {
         "username": "Khalandax",
         "username_checked": "2025-12-19",
@@ -583,9 +576,9 @@
     "7225765909": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
-        "rank_name": "Tier II",
-        "rank_value": 2
+        "division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     },
     "101807084": {
         "username": null,
@@ -604,7 +597,7 @@
     "234067487": {
         "username": null,
         "username_checked": null,
-        "division": "ECHO",
+        "division": "DAGGER",
         "rank_name": "Tier III",
         "rank_value": 3
     }

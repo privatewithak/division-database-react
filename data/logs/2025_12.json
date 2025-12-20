@@ -670,5 +670,71 @@
         "new_division": "ECHO",
         "rank_name": "Tier III",
         "rank_value": 3
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "CCA",
+        "type": "discharge",
+        "user_id": 169303475,
+        "username": "Mausiimarie",
+        "division": "SPEAR",
+        "old_rank_name": "Field Officer",
+        "old_rank_value": 8
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "CCA",
+        "type": "promotion",
+        "user_id": 1478933097,
+        "username": "MrBrit44",
+        "division": "SPEAR",
+        "old_rank_name": "Squadron Leader",
+        "old_rank_value": 9,
+        "new_rank_name": "Division Leader",
+        "new_rank_value": 10
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "OTA",
+        "type": "discharge",
+        "user_id": 1689481069,
+        "username": "Lenin17757",
+        "division": "ECHO",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 234067487,
+        "username": null,
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "OTA",
+        "type": "promotion",
+        "user_id": 7225765909,
+        "username": null,
+        "division": "DAGGER",
+        "old_rank_name": "Tier II",
+        "old_rank_value": 2,
+        "new_rank_name": "Tier III",
+        "new_rank_value": 3
+    },
+    {
+        "date": "2025-12-20",
+        "branch": "OTA",
+        "type": "division_transfer",
+        "user_id": 7225765909,
+        "username": null,
+        "old_division": "ECHO",
+        "new_division": "DAGGER",
+        "rank_name": "Tier III",
+        "rank_value": 3
     }
 ]
