@@ -1,7 +1,9 @@
 import React from 'react';
 import { useState } from 'react';
 import Button from './reusables/Button';
-
+import CCA from '../assets/CCA.webp'
+import OTA from '../assets/OTA.webp'
+import { cx } from './data/themes';
 interface CardProps {
   children: React.ReactNode;
     className?: string;
@@ -21,7 +23,16 @@ function Card({ children, className = "", }: CardProps) {
 
 
 function Navigation() {
-    const [mode, setMode] = useState('CCA')
+  const [mode, setMode] = useState<'CCA' | 'OTA'>('CCA')
+  
+  type Section = "Divisions" | "Search" | "Timeline";
+
+const [active, setActive] = useState<Section>("Divisions");
+
+const activeStyles =
+  mode === "CCA"
+    ? "outline-blue-400/50 bg-blue-500/10"
+    : "outline-red-400/50 bg-red-500/10";
 
     const useSwitch = () => {
         if (mode === 'CCA') {
@@ -30,8 +41,18 @@ function Navigation() {
     }
 
     return (
-        <div className="min-h-screen w-2/10 flex sticky">
-            <aside className="min-h-screen w-8/10 relative flex flex-col gap-2 bg-white/8 backdrop-blur-xl border border-white/20 shadow-[0_8px_32px_0_rgba(0,0,0,0.2)]">
+        <div className="min-h-screen w-2/10 flex">
+        <aside className="min-h-screen w-8/10 sticky top-0 gap-2 bg-white/8 backdrop-blur-xl border border-white/20 shadow-[0_8px_32px_0_rgba(0,0,0,0.2)]">
+          {mode === 'CCA' ? (
+            <Card className='mx-auto mt-4 transition-opacity duration-300'>
+              <img src={CCA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_rgba(59,130,246,0.5)]'/>
+              </Card>
+          ) : (
+              
+              <Card>
+                <img src={OTA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_#d13434]'/>
+              </Card>
+        )}
                 <Card className='text-2xl'>
                     <h1 className="mt-3">Division Database</h1>
                     <p className="text-white/9 text-xs mt-1">made by privatewithak. a fork of r-surrected/division-database</p>
@@ -39,11 +60,34 @@ function Navigation() {
                 <Card>
 <Button 
   onClick={useSwitch} 
-  className='text-lg'
+              className='text-lg'
+              mode={mode}
 >
   Mode: {mode}
 </Button>
-                </Card>
+          </Card>
+<Card className="p-4 flex flex-col gap-4">
+  {(["Divisions","Search","Timeline"] as Section[]).map((s) => (
+    <Button
+      key={s}
+      mode={mode}
+      onClick={() => setActive(s)}
+      className={cx(
+        "w-8/10 text-left justify-start",
+        active === s && `outline-3 ${activeStyles}`
+      )}
+    >
+      {s}
+    </Button>
+  ))}
+</Card>
+          <Card className='mt-4 p-4'>
+            <h2 className='text-lg'>Stats:</h2>
+            <Card className='w-8/10 p-4 relative right-5'>
+            <p className='text-xs'>Divisions: 4</p>
+              <p className='text-xs'>Units: 120+</p>
+              </Card>
+          </Card>
             </aside>
         </div>
     )
