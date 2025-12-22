@@ -9,7 +9,6 @@
 ![Fastify](https://img.shields.io/badge/Fastify-5.x-000000?logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-4169E1?logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
 A rewrite of the original repository, aiming for performance with faster, controlled automatization.
 
@@ -22,10 +21,9 @@ Data flow:
 
 ### 1) Requirements
 - Node.js 20+ (or 22+)
-- Docker + Docker Compose
 
 ### 2) Run everything
 ```bash
-cp .env.example .env
-docker compose up -d --build
+npm install
+npm run dev
 ```
