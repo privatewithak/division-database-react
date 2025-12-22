@@ -1,25 +1,31 @@
-# [**Click here for viewer**](https://r-surrected.github.io/division-database/viewer.html)
+# Division Database fork (react)
 
-# The Division Database
+![Status](https://img.shields.io/badge/status-WIP-yellow)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=111)
+![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?logo=tailwindcss&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-5.x-000000?logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-4169E1?logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
 
-[https://discord.gg/MtFWkQdzru](https://discord.gg/MtFWkQdzru)
+A rewrite of the original repository, aiming for performance with faster, controlled automatization.
 
-## Why I made this 
-This will be quite the yap so here's a shortened version:
 
-I wanted to be able to track changes in divisions, so I made a website that does that.
+Data flow:
+`Worker (cron)` → `Postgres (snapshots/events)` → `API` → `Web UI`
 
-Longer version here:
 
-I've been in the City-17 community on and off since 2020 and I have always wanted something to track the changes in all of the divisions. It would always be "this person left" or "this person joined", but how do you track all that? It became a little annoying to do this.
-I made this project to solve this problem. It tracks all divisional and OTA changes so that you don't have to. 
+## Getting started
 
-## How it works
+### 1) Requirements
+- Node.js 20+ (or 22+)
+- Docker + Docker Compose
 
-The database uses a python script (not in the repo) that runs scheduled (12:00 PM EST daily) on a headless computer to fetch current Roblox group data using their API. It compares it against the previously made snapshot of the data and generates events (changes) for promotions, transfers, discharges, and username changes. The data is exported to JSON files and are pushed to this repo, automatically updating the github pages site that it runs on. The viewer html file allows user to view the static data, meaning that the website does none of the fetching and the backend runs somewhere else.
-
-This may seem like I go in and manually update the json but it's purely done by a python script. I wouldn't wish manual json updating on anyone. 
-
-## Current state / updates
-
-Right now I'm working on automatically updating it (actually getting the headless computer to work and stuff). Currently the username change system is breaking, so any changes just break and they are named "unknown." 
+### 2) Run everything
+```bash
+cp .env.example .env
+docker compose up -d --build
+```
