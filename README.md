@@ -23,7 +23,7 @@ Data flow:
 - Node.js 20+ (or 22+)
 
 ### 2) Run everything
-```bash
+```posh
 npm install
 npm run dev
 ```
