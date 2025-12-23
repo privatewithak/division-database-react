@@ -4,6 +4,8 @@ import Button from './reusables/Button';
 import CCA from '../assets/CCA.webp'
 import OTA from '../assets/OTA.webp'
 import { cx } from './data/themes';
+import type {Mode} from './data/themes'
+import {motion} from 'framer-motion'
 interface CardProps {
   children: React.ReactNode;
     className?: string;
@@ -22,8 +24,7 @@ function Card({ children, className = "", }: CardProps) {
 
 
 
-function Navigation() {
-  const [mode, setMode] = useState<'CCA' | 'OTA'>('CCA')
+function Navigation({mode, setMode}: {mode: Mode, setMode: React.Dispatch<React.SetStateAction<'CCA' | 'OTA'>>}) {
   
   type Section = "Divisions" | "Search" | "Timeline";
 
@@ -45,17 +46,25 @@ const activeStyles =
         <aside className="min-h-screen w-8/10 sticky top-0 gap-2 bg-white/8 backdrop-blur-xl border border-white/20 shadow-[0_8px_32px_0_rgba(0,0,0,0.2)]">
           {mode === 'CCA' ? (
             <Card className='mx-auto mt-4 transition-opacity duration-300'>
-              <img src={CCA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_rgba(59,130,246,0.5)]'/>
+              <motion.img key='cca' src={CCA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_rgba(59,130,246,0.5)]'
+              initial={{ opacity: 0, scale: 0.8, rotate: -10 }}
+              animate={{ opacity: 1, scale: 1, rotate: 0 }}
+              transition={{ duration: 0.5 }}
+              />
               </Card>
           ) : (
               
               <Card>
-                <img src={OTA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_#d13434]'/>
+                <motion.img src={OTA} className='w-24 h-24 mx-auto rounded-full shadow-[0px_4px_42px_2px_#d13434]'
+              initial={{ opacity: 0, scale: 0.8, rotate: -10 }}
+              animate={{ opacity: 1, scale: 1, rotate: 0 }}
+              transition={{ duration: 0.5 }}
+                />
               </Card>
         )}
                 <Card className='text-2xl'>
                     <h1 className="mt-3">Division Database</h1>
-                    <p className="text-white/9 text-xs mt-1">made by privatewithak. a fork of r-surrected/division-database</p>
+                    <p className="text-white/15 text-[9px] mt-1">made by privatewithak. a fork of r-surrected/division-database</p>
                 </Card>
                 <Card>
 <Button 
