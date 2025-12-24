@@ -1,1 +1,43 @@
 @import 'tailwindcss'
+@plugin 'tailwind-scrollbar';
+
+/* global */
+:root {
+  --sb-size: 10px;
+  --sb-thumb: rgba(255, 255, 255, 0.22);
+  --sb-thumb-hover: rgba(255, 255, 255, 0.35);
+  --sb-track: transparent;
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;                         /* thin | auto */
+  scrollbar-color: var(--sb-thumb) var(--sb-track);
+}
+
+/* Chromium / Safari */
+*::-webkit-scrollbar {
+  width: var(--sb-size);
+  height: var(--sb-size);
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--sb-track);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb);
+  border-radius: 999px;
+  border: 3px solid transparent;                 /* делает "тонкий" thumb */
+  background-clip: content-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: var(--sb-thumb-hover);
+  background-clip: content-box;
+}
+
+/* Уголок (когда есть и вертикальный и горизонтальный скролл) */
+*::-webkit-scrollbar-corner {
+  background: transparent;
+}

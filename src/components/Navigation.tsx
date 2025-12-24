@@ -5,7 +5,9 @@ import CCA from '../assets/CCA.webp'
 import OTA from '../assets/OTA.webp'
 import { cx } from './data/themes';
 import type {Mode} from './data/themes'
-import {motion} from 'framer-motion'
+import { AnimatePresence, motion } from 'framer-motion'
+import mockData from './data/layoutMock';
+
 interface CardProps {
   children: React.ReactNode;
     className?: string;
@@ -28,7 +30,10 @@ function Navigation({mode, setMode}: {mode: Mode, setMode: React.Dispatch<React.
   
   type Section = "Divisions" | "Search" | "Timeline";
 
-const [active, setActive] = useState<Section>("Divisions");
+  const [active, setActive] = useState<Section>("Divisions");
+
+
+  const divisionsAll = new Set(mockData.map((u) => u.division)).size;
 
 const activeStyles =
   mode === "CCA"
@@ -65,14 +70,16 @@ const activeStyles =
                 <Card className='text-2xl'>
                     <h1 className="mt-3">Division Database</h1>
                     <p className="text-white/15 text-[9px] mt-1">made by privatewithak. a fork of r-surrected/division-database</p>
-                </Card>
-                <Card>
+          </Card>
+          
+          <Card>
+      
 <Button 
   onClick={useSwitch} 
               className='text-lg'
               mode={mode}
 >
-  Mode: {mode}
+  Mode: <AnimatePresence mode='popLayout' initial={false}><motion.span key={mode} initial={{opacity: 0, y: 6, filter: 'saturate(0.7) contrast(0.95)'}} animate={{opacity: 1, y: 0, filter: 'saturate(1) contrast(1)'}} exit={{opacity: 0, y: -6}} transition={{duration: 0.15}}>{mode}</motion.span></AnimatePresence>
 </Button>
           </Card>
 <Card className="p-4 flex flex-col gap-4">
@@ -93,8 +100,8 @@ const activeStyles =
           <Card className='mt-4 p-4'>
             <h2 className='text-lg'>Stats:</h2>
             <Card className='w-8/10 p-4 relative right-5'>
-            <p className='text-xs'>Divisions: 4</p>
-              <p className='text-xs'>Units: 120+</p>
+            <p className='text-xs'>Divisions: {divisionsAll}</p>
+              <p className='text-xs'>Units: {mockData.length}</p>
               </Card>
           </Card>
             </aside>

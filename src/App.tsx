@@ -1,27 +1,43 @@
 import { useState } from 'react'
 import './App.css'
 import Navigation from './components/Navigation'
-import Layout from './components/Layout.tsx'
+import Layout from './components/Layout'
 
 function App() {
   const [mode, setMode] = useState<'CCA' | 'OTA'>('CCA')
 
   return (
-    <>
-      <div className='bg-[linear-gradient(135deg,#0a0a0f,#1a1a2e,#16213e)] min-h-screen min-w-screen flex overflow-hidden'>
-        <Navigation mode={mode} setMode={setMode} />
-        <div>
-          <div className='text-center mt-8 text-3xl font-bold after:content-[""] after:block after:w-28/10 after:h-0.75 after:mt-2 after:bg-gray-800/40'>
-            <h2 className='text-white mb-1'>Universal Union Divisional Dashboard</h2>
-            <p className='text-gray-600 block text-sm font-regular text-left'>Current scope: {mode === 'CCA' ? 'Civil Protection and Officer Academy' : 'Overwatch Transhuman Arm'}</p>
-          </div>
-          <div className='relative min-w-25/10 mt-12 mx-auto'>
-            <Layout mode={mode} />
-            </div>
-        </div>
+    <div className="bg-[linear-gradient(135deg,#0a0a0f,#1a1a2e,#16213e)] min-h-dvh w-full flex overflow-hidden">
+      <Navigation mode={mode} setMode={setMode} />
+
+      <div className="flex-1 min-w-0 overflow-hidden">
         
+        <div className="w-full px-10 pt-8">
+          {/* Header */}
+          <div className="text-left">
+            <h2 className="text-white text-3xl font-bold mb-1">
+              Universal Union Divisional Dashboard
+            </h2>
+
+            <div className="h-0.75 w-[67vw] bg-gray-800/40 mt-2" />
+
+            <p className="text-gray-600 mt-2 text-sm">
+              Current scope:{' '}
+              {mode === 'CCA'
+                ? 'Civil Protection and Officer Academy'
+                : 'Overwatch Transhuman Arm'}
+            </p>
+          </div>
         </div>
-    </>
+
+        {/* Layout */}
+        <div className="relative mt-10 px-10">
+          <div className="mx-auto w-full max-w-8xl">
+            <Layout mode={mode} />
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
 
